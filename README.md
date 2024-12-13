@@ -1,7 +1,3 @@
-Here’s a description you can use for your GitHub repository for the anime streaming site:
-
----
-
 # Anime Streaming Site 🎥🍥  
 
 A feature-rich **anime streaming website** developed using **PHP**, **JavaScript**, **CSS**, and **HTML**, with **MySQL** as the backend database. The site is hosted locally using **XAMPP** and provides a seamless experience for anime enthusiasts to explore and watch their favorite shows.  
